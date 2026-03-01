@@ -2,7 +2,7 @@
 <h3 align="center">Senior Distributed Systems Engineer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=36BCF7&center=true&vCenter=true&width=500&lines=Linux Debian by heart;Distributed+Systems+Engineer;AI+Researcher;Full+Stack+Architect;Linux+Power+User" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=36BCF7&center=true&vCenter=true&width=500&lines=Linux+Debian+by+heart;Distributed+Systems+Engineer;AI+Researcher;Full+Stack+Architect;Linux+Power+User" />
 </p>
 
 <p align="center">
