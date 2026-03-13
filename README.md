@@ -5,9 +5,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=36BCF7&center=true&vCenter=true&width=500&lines=Linux+Debian+by+heart;Distributed+Systems+Engineer;AI+Researcher;Full+Stack+Architect;Linux+Power+User" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=oualidor&show_icons=true&theme=tokyonight" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,nodejs,nestjs,react,nextjs,postgres,docker,linux,python,aws,gcp" />
